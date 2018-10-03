@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "866861489527",
+    "firebase_url": "https://logindemo-5099e.firebaseio.com",
+    "project_id": "logindemo-5099e",
+    "storage_bucket": "logindemo-5099e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866861489527:android:a9686ffaaa5c1882",
+        "android_client_info": {
+          "package_name": "com.example.mishalthakkar.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866861489527-8l5givamt2sj6dtjnl2rh5mio6iripv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpZS8ExTXAd7r4zzALdFTvcqKYH9Jexo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
